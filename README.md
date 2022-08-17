@@ -1,1 +1,1 @@
-deployed at anushka-cryptodashboard.netlify.app
+deployed at https://anushka-cryptodashboard.netlify.app
